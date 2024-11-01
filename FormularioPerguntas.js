@@ -10,7 +10,7 @@ const questions = [
         answer: "display: flex"
     },
     {
-        question: "QualO que é MySQLi em PHP?",
+        question: "O que é MySQLi em PHP?",
         options: ["Qualquer banco", "Exclusivo do PDO", "Exclusivo do MySQL", "Versão avançada"],
         answer: "Exclusivo do MySQL"
     },
